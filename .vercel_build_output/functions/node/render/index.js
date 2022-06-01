@@ -8769,7 +8769,7 @@ var manifest = {
   assets: /* @__PURE__ */ new Set(["favicon.png", "robots.txt", "svelte-welcome.png", "svelte-welcome.webp"]),
   mimeTypes: { ".png": "image/png", ".txt": "text/plain", ".webp": "image/webp" },
   _: {
-    entry: { "file": "start-f65a4633.js", "js": ["start-f65a4633.js", "chunks/index-cffa86d9.js", "chunks/index-164bb370.js", "chunks/singletons-d1fb5791.js"], "css": [] },
+    entry: { "file": "start-9801657a.js", "js": ["start-9801657a.js", "chunks/index-cffa86d9.js", "chunks/index-164bb370.js", "chunks/singletons-d1fb5791.js"], "css": [] },
     nodes: [
       () => Promise.resolve().then(() => (init__(), __exports)),
       () => Promise.resolve().then(() => (init__2(), __exports2)),

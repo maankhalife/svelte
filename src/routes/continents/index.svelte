@@ -1,4 +1,4 @@
-npm<script>
+<script>
 
 	import { continents } from './continentsData.js';
 	import Accordion from '$lib/accordion/Accordion.svelte';
